@@ -4,6 +4,10 @@
 A **production-ready FastAPI service** for predicting the **sentiment of text (Positive, Negative, Neutral)**.
 This project combines **natural language preprocessing** with a **machine learning model (SVM + Bag of Words)**, wrapped in a secure and scalable **REST API**.
 
+<p align="center">
+  <img src="src/thumbnail.png" alt="Sentiment Analysis API Thumbnail" width="600">
+</p>
+
 ---
 
 ## ✨ Features
